@@ -1,0 +1,33 @@
+div {
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+  }
+.orange {
+    background:  orange;
+}
+.border {
+  border: 1.5px solid black;
+}
+.rozmir{
+    width: 290px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green {
+    background: green;
+  }
+
+  
+  
+  
+  
+  
